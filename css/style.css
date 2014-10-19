@@ -1,0 +1,29 @@
+/* Put your CSS here */
+
+html, body {
+  height: 100%;
+}
+
+.ember-application {
+}
+
+#container {
+}
+
+.clear {
+  clear: both;
+}
+
+#container textarea {
+  float: left;
+  width: 49%;
+  height: 100vh;
+  resize: none;
+}
+
+#container #output {
+  float: right;
+  width: 49%;
+  height: 100%;
+  overflow: auto;
+}
